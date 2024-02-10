@@ -1,4 +1,4 @@
-### Hola, soy Leo, quieres er mi pag web?👋
+### Hola, soy Leo, quieres ver mi pag web?👋
 
 https://onyxdude.github.io/test1/
 <!--
