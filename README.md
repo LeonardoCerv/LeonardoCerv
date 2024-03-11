@@ -7,19 +7,14 @@
   🌐 Personal web page [leocervantes.me](leocervantes.me/test1/)
 
 </h3> <br/>
-<img align="left" src="https://media.tenor.com/0hOZktOyvV0AAAAi/lego-lego-toolkit.gif" alt="Lego Batman" width="160" />
-
-```
-OnyxDude@github
--------------------------
-💻 I am currently studying Computer Science @ Tecnologico de Monterrey
-📚 Learning about Machine Learning & Cybersecurity
-🚩 Interested in Full Stack Development, Software development and Project management
-📮 Reach me via leocerva29@gmail.com
-🐧 Fun fact: My favorite animals are penguins
-```
 
 ---
+
+<h3 align="left">💻 I am currently studying Computer Science @ Tecnologico de Monterrey</h3>
+<p align="left">
+
+<h3 align="left">📚 Interested in Full Stack Development, Machine learning and Cybersecurity</h3>
+<p align="left">
 
 <h3 align="left">📋 Languages:</h3>
 <p align="left">
@@ -49,17 +44,6 @@ OnyxDude@github
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caarlosdamian/caarlosdamian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caarlosdamian/caarlosdamian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caarlosdamian/caarlosdamian/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
----
 
 <table style="border: none">
   <tr>
