@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! I'm Leo <img src="https://media.tenor.com/EM8nFD0MmrgAAAAi/power-brick-lego-brick.gif" width="30px" height='30px'> </h1>
+<h1 align="center"> Hello World! I'm Leo <img src="https://tenor.com/view/noot-noot-meme-noot-noot-black-background-gif-26002556" width="30px" height='30px'> </h1>
 
 <h3 align="left"> 
 
