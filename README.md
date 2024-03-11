@@ -9,7 +9,7 @@
 <img align="left" src="https://media.tenor.com/0hOZktOyvV0AAAAi/lego-lego-toolkit.gif" alt="Lego Batman" width="160" />
 
 ```
-NDonatti@github
+OnyxDude@github
 -------------------------
 💻 I am currently studying Computer Science @ Tecnologico de Monterrey
 📚 Learning about Machine Learning & Cybersecurity
