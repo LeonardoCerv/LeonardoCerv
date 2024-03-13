@@ -4,7 +4,7 @@
 
   🌐 Founder of [CEAMS.co](https://ceams.co)
   <br> 
-  🌐 Personal [Web Page](https://leocervantes.me/test1/)
+  🌐 Personal [Web Page](https://leocervantes.me/)
 </h3>
 
 ---
