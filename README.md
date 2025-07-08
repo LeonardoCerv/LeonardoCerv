@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/TS-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%blue)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=ffdd54)
 
 <h3 align="left">📚 Frameworks / Platforms:</h3>
@@ -33,9 +34,10 @@
 <p align="left">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-gray.svg?style=for-the-badge&logo=Supabase&logoColor=green)
 ![Postgres](https://img.shields.io/badge/Postgres-blue.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/Mongodb-green.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <table style="border: none">
