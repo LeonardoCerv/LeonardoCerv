@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="left">💻 I am a second-year student of Computer Science @ Tecnologico de Monterrey</h3>
+<h3 align="left">💻 Computer Science @ Tecnologico de Monterrey</h3>
 <p align="left">
 
 <h3 align="left">📚 Interested in Full Stack Development and Cybersecurity</h3>
