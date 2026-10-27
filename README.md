@@ -18,7 +18,7 @@ Research intern at DTU, building the training dataset behind Nordic wildfire-ris
 - [Clearly](https://github.com/LeonardoCerv/water-judge), HackMIT 2025, 2nd place in the sponsor challenge: water-quality verdicts checked by a verification agent and signed on Ethereum.
 - Fico, [Banco de México 2025](https://conecta.tec.mx/es/noticias/queretaro/institucion/finanzas-abiertas-alumnos-tec-son-finalistas-en-hackathon-bancario), national finalist (6 of 300+ teams): open-finance aggregator that moves SPEI payments across banks.
 
-**Tools people install**
+**Tools I've made**
 
 - [scratch-space](https://github.com/LeonardoCerv/scratch-space): VS Code notes and snippets that stay out of your repo. 250+ installs on the [Marketplace](https://marketplace.visualstudio.com/items?itemName=LeonardoCerv.scratch-space).
 - [prompt-wisp](https://github.com/LeonardoCerv/prompt-wisp): save, organize and share prompts. [Web app](https://prompt-wisp.vercel.app) and [Chrome extension](https://chromewebstore.google.com/detail/prompt-wisp/jfnnlgpcdjjfkhlngolanneflbgpekeo).
